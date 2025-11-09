@@ -18,6 +18,4 @@ A Machine Learning project implementing and comparing models — Linear Regressi
 ## 📊 Goal
 Compare and analyze model accuracy and performance on a given dataset.
 
-## 📁 Models Designed by
-```bash
-## Ritesh Gajjar
+## 📁 Models Designed by Ritesh Gajjar
